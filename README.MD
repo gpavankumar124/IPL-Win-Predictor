@@ -98,9 +98,27 @@ These datasets contain historical IPL match information used for training and pr
 
 ## 📸 Application Preview
 
-> Screenshots will be added here after deployment.
+### 🏏 Team Selection
+
+<p align="center">
+  <img src="screenshots/teamselection.png" width="900">
+</p>
 
 ---
+
+### 📝 Match Input Details
+
+<p align="center">
+  <img src="screenshots/inputtingdetails.png" width="900">
+</p>
+
+---
+
+### 🎯 Prediction Result
+
+<p align="center">
+  <img src="screenshots/prediction.png" width="900">
+</p>
 
 ## 🔮 Future Improvements
 
